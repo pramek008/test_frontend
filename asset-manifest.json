@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nolimit-population-task/static/css/main.c651f88a.css",
+    "main.js": "/nolimit-population-task/static/js/main.69c33d23.js",
+    "static/js/453.af29c184.chunk.js": "/nolimit-population-task/static/js/453.af29c184.chunk.js",
+    "index.html": "/nolimit-population-task/index.html",
+    "main.c651f88a.css.map": "/nolimit-population-task/static/css/main.c651f88a.css.map",
+    "main.69c33d23.js.map": "/nolimit-population-task/static/js/main.69c33d23.js.map",
+    "453.af29c184.chunk.js.map": "/nolimit-population-task/static/js/453.af29c184.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c651f88a.css",
+    "static/js/main.69c33d23.js"
+  ]
+}
