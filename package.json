@@ -2,7 +2,6 @@
   "name": "nolimit-population-task",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://hiralarisa.github.io/nolimit-population-task",
   "dependencies": {
     "axios": "^1.10.0",
     "react": "^18.2.0",
